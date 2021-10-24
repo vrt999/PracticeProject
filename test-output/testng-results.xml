@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-04-30T10:31:49Z" name="Default suite" finished-at="2020-04-30T10:32:43Z" duration-ms="53654">
+    <groups>
+    </groups>
+    <test started-at="2020-04-30T10:31:49Z" name="Default test" finished-at="2020-04-30T10:32:43Z" duration-ms="53654">
+      <class name="Assignment2.Tests">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:Assignment2.Tests@65e98b1c]" started-at="2020-04-30T10:31:49Z" name="beforeTest" finished-at="2020-04-30T10:32:03Z" duration-ms="13939" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="submitReviewTest()[pri:0, instance:Assignment2.Tests@65e98b1c]" started-at="2020-04-30T10:32:03Z" name="submitReviewTest" finished-at="2020-04-30T10:32:43Z" duration-ms="39679" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitReviewTest -->
+      </class> <!-- Assignment2.Tests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
